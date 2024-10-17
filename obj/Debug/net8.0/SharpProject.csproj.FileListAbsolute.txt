@@ -1,0 +1,14 @@
+C:\Users\GuNX1\SharpProject\bin\Debug\net8.0\SharpProject.exe
+C:\Users\GuNX1\SharpProject\bin\Debug\net8.0\SharpProject.deps.json
+C:\Users\GuNX1\SharpProject\bin\Debug\net8.0\SharpProject.runtimeconfig.json
+C:\Users\GuNX1\SharpProject\bin\Debug\net8.0\SharpProject.dll
+C:\Users\GuNX1\SharpProject\bin\Debug\net8.0\SharpProject.pdb
+C:\Users\GuNX1\SharpProject\obj\Debug\net8.0\SharpProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GuNX1\SharpProject\obj\Debug\net8.0\SharpProject.AssemblyInfoInputs.cache
+C:\Users\GuNX1\SharpProject\obj\Debug\net8.0\SharpProject.AssemblyInfo.cs
+C:\Users\GuNX1\SharpProject\obj\Debug\net8.0\SharpProject.csproj.CoreCompileInputs.cache
+C:\Users\GuNX1\SharpProject\obj\Debug\net8.0\SharpProject.dll
+C:\Users\GuNX1\SharpProject\obj\Debug\net8.0\refint\SharpProject.dll
+C:\Users\GuNX1\SharpProject\obj\Debug\net8.0\SharpProject.pdb
+C:\Users\GuNX1\SharpProject\obj\Debug\net8.0\SharpProject.genruntimeconfig.cache
+C:\Users\GuNX1\SharpProject\obj\Debug\net8.0\ref\SharpProject.dll
